@@ -8,6 +8,7 @@
     "amigable",
     "Apellido",
     "aquellos",
+    "área",
     "argumentos",
     "asignarle",
     "básicamente",
@@ -128,6 +129,8 @@
     "trabaja",
     "trabajo",
     "transformación",
+    "Triangulo",
+    "Triangulos",
     "usada",
     "usando",
     "usar",
@@ -138,5 +141,13 @@
     "verdadera",
     "verdadero",
     "vuelve"
-  ]
+  ],
+  "cSpell.customDictionaries": {
+    "custom-dictionary-workspace": {
+      "name": "custom-dictionary-workspace",
+      "path": "${workspaceFolder:JS-basico-practico}/.cspell/custom-dictionary-workspace.txt",
+      "addWords": true,
+      "scope": "workspace"
+    }
+  }
 }
