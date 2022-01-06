@@ -1,14 +1,19 @@
 //código del cuadrado
 console.group("Cuadrados");
 
-const ladoCuadrado = 5;
-console.log(`Los lados del cuadrado miden: ${ladoCuadrado} cm`);
+// const ladoCuadrado = 5;
+// console.log(`Los lados del cuadrado miden: ${ladoCuadrado} cm`);
 
-const perimetroCuadrado = ladoCuadrado * 4;
-console.log(`El perímetro del cuadrado es: ${perimetroCuadrado} cm`);
+function perimetroCuadrado(lado) {
+  return lado * 4;
+}
+// console.log(`El perímetro del cuadrado es: ${perimetroCuadrado} cm`);
 
-const areaCuadrada = ladoCuadrado * ladoCuadrado;
-console.log(`El área de mi cuadrado es: ${areaCuadrada} cm^2`);
+function areaCuadrado(lado) {
+  return lado * lado;
+}
+
+// console.log(`El área de mi cuadrado es: ${areaCuadrada} cm^2`);
 console.groupEnd();
 
 //código del triángulo

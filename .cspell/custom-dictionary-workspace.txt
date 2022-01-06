@@ -1,1 +1,19 @@
 # Custom Dictionary Words
+altura
+Circulo
+círculo
+Círculos
+circunferencia
+Cuadrada
+cuadrado
+Cuadrado
+Cuadrados
+diametro
+Diametro
+lado
+lados
+miden
+perimetro
+perímetro
+triánculo
+triángulo
