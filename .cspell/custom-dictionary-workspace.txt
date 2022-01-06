@@ -1,5 +1,9 @@
 # Custom Dictionary Words
 altura
+Calcula
+Calculador
+calcular
+Calcular
 Circulo
 círculo
 Círculos
@@ -8,12 +12,19 @@ Cuadrada
 cuadrado
 Cuadrado
 Cuadrados
+cuánto
+curso
 diametro
 Diametro
+figuras
+Figuras
+geométricas
 lado
 lados
+mide
 miden
 perimetro
 perímetro
+práctico
 triánculo
 triángulo
