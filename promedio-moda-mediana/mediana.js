@@ -47,24 +47,3 @@ function calcularMediana() {
   }
   return mediana;
 }
-
-//buble sort
-
-// function bubbleSort(array) {
-//   for (let i = 0; i < array.length - 1; i++) {
-//     for (let j = 0; j < array.length - 1 - i; j++) {
-//       if (array[j] > array[j + 1]) {
-//         const temp = array[j];
-//         array[j] = array[j + 1];
-//         array[j + 1] = temp;
-//       }
-//     }
-//   }
-//   return array;
-// }
-
-// console.log(
-//   bubbleSort([
-//     13812, 51, 51230, 625, 1, 3, 4, 569, 34, 6, 6, 9, 08, 87, 3423234,
-//   ])
-// );
